@@ -14,7 +14,6 @@ function SelectCur({
   function handleClickFrom(cryptoData) {
     // setFirstLoad(false);
     setCurrentCryptoFrom(cryptoData);
-    console.log(cryptoData);
     closeSearch();
   }
 
